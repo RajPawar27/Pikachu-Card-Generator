@@ -44,7 +44,7 @@
 
 | Landing Page                                      | Random Card View                                  |
 |:--------------------------------------------------:|:-------------------------------------------------:|
-| ![Landing Page](client/public/screenshots/landing.png) | ![Random Card](client/public/screenshots/card.png) |
+| ![Landing Page](client/public/landing.png) | ![Random Card](client/public/card.png) |
 
 ---
 
