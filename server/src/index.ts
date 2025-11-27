@@ -13,7 +13,7 @@ app.get('/api/card/random', async (_req, res) => {
     const card = await fetchRandomPokemonCard();
     res.json({ success: true, card });
   } catch (err) {
-    console.error('🔴 Error fetching Pokémon:', err);
+    console.error(' Error fetching Pokémon:', err);
     res.status(500).json({ success: false, message: 'Server Error' });
   }
 });
